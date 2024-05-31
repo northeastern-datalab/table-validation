@@ -1,0 +1,9 @@
+NATIONKEY,NATIONKEY,S_COMMENT,S_ACCTBAL,S_PHONE,S_ADDRESS,S_NAME,SUPPKEY,R_COMMENT,R_NAME,REGIONKEY
+22,"nation.csv
+supplier.csv",,supplier.csv,supplier.csv,supplier.csv,supplier.csv,supplier.csv,,,
+12,"nation.csv
+supplier.csv",,supplier.csv,supplier.csv,supplier.csv,supplier.csv,supplier.csv,,,
+7,"nation.csv
+supplier.csv",supplier.csv,supplier.csv,supplier.csv,supplier.csv,supplier.csv,supplier.csv,,,
+9,"nation.csv
+supplier.csv",supplier.csv,supplier.csv,supplier.csv,supplier.csv,supplier.csv,supplier.csv,,,

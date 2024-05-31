@@ -1,0 +1,20 @@
+PARTKEY,RETAILPRICE,P_NAME,S_NAME,N_NAME,MFGR,BRAND,TYPE,SIZE,CONTAINER
+42,942.04,midnight turquoise lawn beige thistle,Supplier#000000042,UNITED STATES,Manufacturer#5,Brand#52,MEDIUM BURNISHED TIN,45,LG BOX
+43,943.04,medium lace midnight royal chartreuse,Supplier#000000043,CANADA,Manufacturer#4,Brand#44,PROMO POLISHED STEEL,5,WRAP CASE
+44,944.04,saddle cream wheat lemon burnished,Supplier#000000044,GERMANY,Manufacturer#4,Brand#45,MEDIUM PLATED TIN,48,SM PACK
+45,945.04,lawn peru ghost khaki maroon,Supplier#000000045,MEXICO,Manufacturer#4,Brand#43,SMALL BRUSHED NICKEL,9,WRAP BAG
+46,946.04,honeydew turquoise aquamarine spring tan,Supplier#000000046,UNITED KINGDOM,Manufacturer#1,Brand#11,STANDARD POLISHED TIN,45,WRAP CASE
+47,947.04,honeydew red azure magenta brown,Supplier#000000047,FRANCE,Manufacturer#4,Brand#45,LARGE BURNISHED BRASS,14,JUMBO PACK
+48,948.04,slate thistle cornsilk pale forest,Supplier#000000048,GERMANY,Manufacturer#5,Brand#53,STANDARD BRUSHED STEEL,27,JUMBO CASE
+49,949.04,light firebrick cyan puff blue,Supplier#000000049,UNITED KINGDOM,Manufacturer#2,Brand#24,SMALL BURNISHED TIN,31,MED DRUM
+50,950.05,linen blanched tomato slate medium,Supplier#000000050,MEXICO,Manufacturer#3,Brand#33,LARGE ANODIZED TIN,25,WRAP PKG
+51,951.05,lime frosted indian dodger linen,Supplier#000000051,MEXICO,Manufacturer#4,Brand#45,ECONOMY BURNISHED NICKEL,34,JUMBO PACK
+52,952.05,lemon midnight lace sky deep,Supplier#000000052,CANADA,Manufacturer#3,Brand#35,STANDARD BURNISHED TIN,25,WRAP CASE
+53,953.05,bisque rose cornsilk seashell purple,Supplier#000000053,GERMANY,Manufacturer#2,Brand#23,ECONOMY BURNISHED NICKEL,32,MED BAG
+54,954.05,blanched mint yellow papaya cyan,Supplier#000000054,GERMANY,Manufacturer#2,Brand#21,LARGE BURNISHED COPPER,19,WRAP CASE
+55,955.05,sky cream deep tomato rosy,Supplier#000000055,GERMANY,Manufacturer#2,Brand#23,ECONOMY BRUSHED COPPER,9,MED BAG
+56,956.05,antique beige brown deep dodger,Supplier#000000056,UNITED KINGDOM,Manufacturer#1,Brand#12,MEDIUM PLATED STEEL,20,WRAP DRUM
+57,957.05,purple blue light sienna deep,Supplier#000000057,MEXICO,Manufacturer#3,Brand#32,MEDIUM BURNISHED BRASS,49,MED PKG
+58,958.05,linen hot cornsilk drab bisque,Supplier#000000058,GERMANY,Manufacturer#5,Brand#53,STANDARD POLISHED TIN,44,LG PACK
+59,959.05,misty brown medium mint salmon,Supplier#000000059,GERMANY,Manufacturer#5,Brand#53,MEDIUM POLISHED TIN,2,LG BAG
+60,960.06,snow spring sandy olive tomato,Supplier#000000060,UNITED KINGDOM,Manufacturer#1,Brand#11,LARGE POLISHED COPPER,27,JUMBO CASE

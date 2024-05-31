@@ -1,0 +1,18 @@
+{
+    "customer.csv": {
+        "NATIONKEY": "NATIONKEY",
+        "C_NAME": "C_NAME",
+        "C_ADDRESS": "C_ADDRESS",
+        "C_ACCTBAL": "C_ACCTBAL",
+        "MKTSEGMENT": "MKTSEGMENT",
+        "CUSTKEY": "CUSTKEY",
+        "C_COMMENT": "C_COMMENT",
+        "C_PHONE": "C_PHONE"
+    },
+    "nation.csv": {
+        "N_NAME": "N_NAME",
+        "NATIONKEY": "NATIONKEY",
+        "REGIONKEY": "REGIONKEY",
+        "N_COMMENT": "N_COMMENT"
+    }
+}

@@ -1,0 +1,422 @@
+{
+    "List_of_Puget_Sound_steamboats.csv": {
+        "Regis Tons": " Victim Age",
+        "Gross Tons": " Suspect Age"
+    },
+    "List_of_islands_of_Ireland.csv": {
+        "Area Acres Unless stated otherwise, area is from Ordnance Survey Ireland 's 19th-century 6\" maps (viewable via the Historic 6\" layer of the link in the OS-map column)": " Victim Age",
+        "Height Metres Unless stated otherwise, height is from Ordnance Survey Ireland's 1:50,000 series maps (viewable for Republic of Ireland islands via the Wind Report layer of the link in the OS-map column )": " Suspect Age"
+    },
+    "List_of_Florida_Panthers_players_1.csv": {
+        "GP": "Incident Number",
+        "PIM": " Victim Age"
+    },
+    "List_of_My_Little_Pony_characters_1.csv": {
+        "Gender": " Victim Gender",
+        "Hair Color": " Victim Race"
+    },
+    "List_of_Edmonton_Oilers_players_1.csv": {
+        "Regular season": " Suspect Age",
+        "Regular season.4": " Victim Age"
+    },
+    "List_of_Internet_exchange_points_by_size.csv": {
+        "Throughput ( Gbit / s ) maximum": "Incident Number",
+        "Members": " Victim Age"
+    },
+    "United_States_presidential_election,_2012_1.csv": {
+        "2012 Presidential vote by demographic subgroup.2": " Victim Age",
+        "2012 Presidential vote by demographic subgroup": " Victim Race"
+    },
+    "List_of_people_executed_in_Texas,_1990\u201399.csv": {
+        "1990 \u2013 4 executions.3": " Victim Age",
+        "1990 \u2013 4 executions.2": " Victim Race"
+    },
+    "Y-DNA_haplogroups_by_ethnic_group.csv": {
+        "n.3": " Victim Age",
+        "n": " Suspect Age"
+    },
+    "List_of_Leyton_Orient_F.C._seasons.csv": {
+        "League.7": " Victim Age",
+        "League.5": " Suspect Age"
+    },
+    "Stoke_City_F.C._Reserves_and_Academy.csv": {
+        "Goals A": " Victim Age",
+        "Points": " Suspect Age"
+    },
+    "List_of_people_executed_in_Texas,_2010\u2013.csv": {
+        "2010 \u2013 17 executions.3": " Victim Age",
+        "2010 \u2013 17 executions.2": " Victim Race"
+    },
+    "Dariusz_Wosz.csv": {
+        "League": " Victim Age",
+        "Total": " Suspect Age"
+    },
+    "List_of_people_executed_in_Texas,_1930\u201339.csv": {
+        "1930 \u2013 10 executions.3": " Victim Age",
+        "1930 \u2013 10 executions.2": " Victim Race"
+    },
+    "List_of_Aberdeen_F.C._seasons.csv": {
+        "League.6": " Victim Age",
+        "League.7": " Suspect Age"
+    },
+    "Kentucky\u2013Tennessee_rivalry_1.csv": {
+        "Kentucky.1": "Incident Number",
+        "Tennessee.1": " Victim Age"
+    },
+    "List_of_people_executed_in_Texas,_2000\u201309.csv": {
+        "2000 \u2013 40 executions.3": " Victim Age",
+        "2000 \u2013 40 executions.2": " Victim Race"
+    },
+    "List_of_Vedic_Individuals.csv": {
+        "ID": "Incident Number",
+        "Gender": " Victim Gender"
+    },
+    "Medicine_Hat_Tigers.csv": {
+        "L": " Victim Age",
+        "W": " Suspect Age"
+    },
+    "Communications-based_train_control.csv": {
+        "Km": " Victim Age",
+        "No. of trains": " Suspect Age"
+    },
+    "Port_Arthur_Marrs.csv": {
+        "P": " Victim Age",
+        "GP": " Suspect Age"
+    },
+    "List_of_people_executed_in_Texas,_1900\u201309.csv": {
+        "1900 \u2013 11 executions.3": " Victim Age",
+        "1900 \u2013 11 executions.2": " Victim Race"
+    },
+    "Flin_Flon_Bombers.csv": {
+        "L": " Victim Age",
+        "W": " Suspect Age"
+    },
+    "2008\u201309_Biathlon_World_Cup_\u2013_Pursuit_Men_1.csv": {
+        "HOC": " Victim Age",
+        "\u00d6ST": " Suspect Age"
+    },
+    "List_of_Hannover_96_seasons.csv": {
+        "League.7": " Victim Age",
+        "League.8": " Suspect Age"
+    },
+    "List_of_Southampton_F.C._seasons_1.csv": {
+        "League record.6": " Victim Age",
+        "Most league appearances [C ].1": " Suspect Age"
+    },
+    "List_of_Rosenborg_BK_seasons_1.csv": {
+        "F": " Victim Age",
+        "A": " Suspect Age"
+    },
+    "List_of_Malm\u00f6_FF_seasons_1.csv": {
+        "GF": " Suspect Age",
+        "Pts": " Victim Age"
+    },
+    "Polyunsaturated_fat_1.csv": {
+        "Mono- unsaturated": " Victim Age",
+        "Saturated": " Suspect Age"
+    },
+    "List_of_Los_Angeles_Kings_seasons_1.csv": {
+        "L": " Victim Age",
+        "W": " Suspect Age"
+    },
+    "List_of_APOEL_F.C._seasons_1.csv": {
+        "League.7": " Victim Age",
+        "League.5": " Suspect Age"
+    },
+    "List_of_people_executed_in_Texas,_1890\u201399.csv": {
+        "1890 \u2013 3 executions.3": " Victim Age",
+        "1890 \u2013 3 executions.2": " Victim Race"
+    },
+    "List_of_National_Basketball_Association_players_with_most_assists_in_a_game_1.csv": {
+        "Pts": "Incident Number",
+        "MP": " Victim Age"
+    },
+    "Biathlon_World_Championships_2012_\u2013_Men's_individual.csv": {
+        "Bib": "Incident Number",
+        "Rank": " Victim Age"
+    },
+    "List_of_people_executed_in_Texas,_1940\u201349.csv": {
+        "1940 \u2013 8 executions.3": " Victim Age",
+        "1940 \u2013 8 executions.2": " Victim Race"
+    },
+    "List_of_Middlesbrough_F.C._seasons.csv": {
+        "League record.8": " Victim Age",
+        "Top scorer(s).1": " Suspect Age"
+    },
+    "Petrolia_Squires.csv": {
+        "P": " Victim Age",
+        "GP": " Suspect Age"
+    },
+    "List_of_Eintracht_Frankfurt_seasons.csv": {
+        "League.5": " Suspect Age",
+        "League.6": " Victim Age"
+    },
+    "2012_Bojangles'_Southern_500.csv": {
+        "No.": " Victim Age",
+        "Grid": " Suspect Age"
+    },
+    "List_of_Chicago_Blackhawks_seasons_1.csv": {
+        "L": " Victim Age",
+        "W": " Suspect Age"
+    },
+    "List_of_people_executed_in_Texas,_1880\u201389.csv": {
+        "1880 \u2013 13 executions.3": " Victim Age",
+        "1880 \u2013 13 executions.2": " Victim Race"
+    },
+    "Cooking_oil_1.csv": {
+        "Mono- unsaturated": " Victim Age",
+        "Saturated": " Suspect Age"
+    },
+    "W\u0142odzimierz_Luba\u0144ski.csv": {
+        "League": " Victim Age",
+        "Total": " Suspect Age"
+    },
+    "Unsaturated_fat.csv": {
+        "Mono- unsaturated": " Victim Age",
+        "Saturated": " Suspect Age"
+    },
+    "Sini\u0161a_Mihajlovi\u0107.csv": {
+        "League": " Victim Age",
+        "Total": " Suspect Age"
+    },
+    "Biathlon_World_Championships_2012_\u2013_Men's_sprint.csv": {
+        "Bib": "Incident Number",
+        "Rank": " Victim Age"
+    },
+    "Monounsaturated_fat.csv": {
+        "Mono- unsaturated": " Victim Age",
+        "Saturated": " Suspect Age"
+    },
+    "Bonnyrigg_White_Eagles_FC.csv": {
+        "Pts": " Victim Age",
+        "GA": " Suspect Age"
+    },
+    "List_of_VfL_Bochum_seasons.csv": {
+        "League.5": "Incident Number",
+        "League.7": " Victim Age"
+    },
+    "Delhi_Travellers.csv": {
+        "P": " Victim Age",
+        "GP": " Suspect Age"
+    },
+    "List_of_Detroit_Red_Wings_seasons_1.csv": {
+        "Regular season.2": " Victim Age",
+        "Regular season.3": " Suspect Age"
+    },
+    "List_of_HNK_Hajduk_Split_seasons.csv": {
+        "F": "Incident Number",
+        "Pts": " Victim Age"
+    },
+    "Eus\u00e9bio.csv": {
+        "Total": " Suspect Age",
+        "League.1": " Victim Age"
+    },
+    "List_of_NFL_quarterbacks_who_have_passed_for_400_or_more_yards_in_a_game.csv": {
+        "Att.": " Victim Age",
+        "Comp.": " Suspect Age"
+    },
+    "List_of_Washington_Capitals_seasons_1.csv": {
+        "Regular season.2": " Victim Age",
+        "Regular season.3": " Suspect Age"
+    },
+    "List_of_National_Basketball_Association_players_with_most_blocks_in_a_game_1.csv": {
+        "Points": "Incident Number",
+        "Minutes played": " Victim Age"
+    },
+    "List_of_Granada_CF_seasons_1.csv": {
+        "League.7": " Victim Age",
+        "League.6": " Suspect Age"
+    },
+    "List_of_Athletic_Bilbao_seasons_1.csv": {
+        "League.7": " Victim Age",
+        "League.8": " Suspect Age"
+    },
+    "List_of_people_executed_in_Texas,_1910\u201319.csv": {
+        "1910 \u2013 7 executions.3": " Victim Age",
+        "1910 \u2013 7 executions.2": " Victim Race"
+    },
+    "International_rankings_of_Chile.csv": {
+        "% rank.": " Victim Age",
+        "Overall ranking": " Suspect Age"
+    },
+    "Vit\u00f3ria_S.C._1.csv": {
+        "P": " Victim Age",
+        "GA": " Suspect Age"
+    },
+    "List_of_F.C._Hansa_Rostock_players.csv": {
+        "Goals.3": " Suspect Age",
+        "Goals": " Victim Age"
+    },
+    "List_of_Parma_F.C._seasons_1.csv": {
+        "League.7": " Victim Age",
+        "League.6": " Suspect Age"
+    },
+    "List_of_U.S._Citt\u00e0_di_Palermo_seasons_1.csv": {
+        "League record.5": " Victim Age",
+        "League record.4": " Suspect Age"
+    },
+    "Lethbridge_Hurricanes.csv": {
+        "L": " Victim Age",
+        "W": " Suspect Age"
+    },
+    "Port_Stanley_Sailors.csv": {
+        "P": " Victim Age",
+        "GP": " Suspect Age"
+    },
+    "Gymnastics_at_the_2012_Summer_Olympics_\u2013_Women's_artistic_qualification.csv": {
+        "Unnamed: 8": " Suspect Age",
+        "Unnamed: 4": " Victim Age"
+    },
+    "Archery_at_the_1972_Summer_Olympics_\u2013_Women's_individual_1.csv": {
+        "Round 2 Rank": "Incident Number",
+        "Rank": " Victim Age"
+    },
+    "List_of_people_executed_in_Texas,_1960\u201364.csv": {
+        "1960 \u2013 8 executions.3": " Victim Age",
+        "1960 \u2013 8 executions.2": " Victim Race"
+    },
+    "PFC_Oleksandriya_1.csv": {
+        "GS": " Victim Age",
+        "Pl.": " Suspect Age"
+    },
+    "St._John's_Jr._Celtics.csv": {
+        "P": " Victim Age",
+        "GP": " Suspect Age"
+    },
+    "Quebec_general_election,_2008.csv": {
+        "ADQ": " Victim Age",
+        "QLP": " Suspect Age"
+    },
+    "\u00dajpest_FC_seasons.csv": {
+        "Dif.": "Incident Number",
+        "Pts": " Victim Age"
+    },
+    "Guelph_Hurricanes.csv": {
+        "P": " Victim Age",
+        "L": " Suspect Age"
+    },
+    "Ministry_of_Communications_(Israel).csv": {
+        "#": " Victim Age",
+        "Governments": " Suspect Age"
+    },
+    "2009_Star_World_Championships.csv": {
+        "3": "Incident Number",
+        "1": " Victim Age"
+    },
+    "Biathlon_at_the_2010_Winter_Olympics_\u2013_Women's_sprint.csv": {
+        "Bib": "Incident Number",
+        "Rank": " Victim Age"
+    },
+    "New_Hamburg_Firebirds.csv": {
+        "P": " Victim Age",
+        "GP": " Suspect Age"
+    },
+    "1978\u201379_Alpha_Ethniki.csv": {
+        "Home.3": " Victim Age",
+        "Total": " Suspect Age"
+    },
+    "Biathlon_World_Championships_2012_\u2013_Women's_individual.csv": {
+        "Bib": "Incident Number",
+        "Rank": " Victim Age"
+    },
+    "Council_Wars.csv": {
+        "Ward": "Incident Number",
+        "Race": " Victim Race"
+    },
+    "Alpine_skiing_at_the_1956_Winter_Olympics_\u2013_Men's_giant_slalom_1.csv": {
+        "No.": "Incident Number",
+        "Place": " Victim Age"
+    },
+    "Biathlon_World_Championships_2011_\u2013_Women's_individual.csv": {
+        "Bib": "Incident Number",
+        "Rank": " Victim Age"
+    },
+    "Chinese_university_ranking_(Wu_Shulian).csv": {
+        "2009": "Incident Number",
+        "2007": " Victim Age",
+        "2006": " Suspect Age"
+    },
+    "1990\u201391_Alpha_Ethniki.csv": {
+        "Home.3": " Victim Age",
+        "Total": " Suspect Age"
+    },
+    "2011_ISAF_Sailing_World_Championships_\u2013_Laser_Radial.csv": {
+        "4": " Victim Age",
+        "1": " Suspect Age"
+    },
+    "Mount_Pearl_Jr._Blades.csv": {
+        "P": " Victim Age",
+        "GP": " Suspect Age"
+    },
+    "List_of_Tottenham_Hotspur_F.C._seasons.csv": {
+        "League.7": " Victim Age",
+        "Top goalscorer(s).1": " Suspect Age"
+    },
+    "List_of_U.S._states_and_territories_by_population.csv": {
+        "Rank in all states & terri- tories, 2010": " Victim Age",
+        "Rank in the Fifty States , 2012": " Suspect Age"
+    },
+    "List_of_people_executed_in_Texas,_1982\u201389.csv": {
+        "1982 \u2013 1 execution": " Victim Age",
+        "1982 \u2013 1 execution.2": " Victim Race",
+        "1982 \u2013 1 execution.3": " Suspect Age"
+    },
+    "2012_Pure_Michigan_400.csv": {
+        "No.": " Victim Age",
+        "Grid": " Suspect Age"
+    },
+    "Heiko_Bonan.csv": {
+        "League": " Victim Age",
+        "Total": " Suspect Age"
+    },
+    "2010_World_Weightlifting_Championships_\u2013_Men's_94_kg_1.csv": {
+        "Snatch (kg).3": " Victim Age",
+        "Rank": " Suspect Age"
+    },
+    "List_of_National_Basketball_Association_players_with_most_steals_in_a_game_1.csv": {
+        "Points": "Incident Number",
+        "Minutes played": " Suspect Age"
+    },
+    "List_of_people_executed_in_Connecticut.csv": {
+        "Number": " Victim Age",
+        "Sex": " Victim Gender",
+        "Race": " Victim Race"
+    },
+    "2007_World_Weightlifting_Championships_\u2013_Men's_69_kg_1.csv": {
+        "Snatch (kg).3": " Victim Age",
+        "Rank": " Suspect Age"
+    },
+    "Ukraine_in_the_Eurovision_Song_Contest_2013.csv": {
+        "Jury": " Victim Age",
+        "Total": " Suspect Age"
+    },
+    "United_States_national_athletics_team_1.csv": {
+        "Men.3": " Victim Age",
+        "Total.3": " Suspect Age"
+    },
+    "List_of_tallest_buildings_in_New_Orleans.csv": {
+        "Rank": "Incident Number",
+        "Floors": " Victim Age"
+    },
+    "Opinion_polling_for_the_Israeli_legislative_election,_2009.csv": {
+        "Kadima": " Victim Age",
+        "Likud": " Suspect Age"
+    },
+    "2008_FEI_World_Cup_Jumping_Final.csv": {
+        "Unnamed: 0": "Incident Number",
+        "Points": " Victim Age"
+    },
+    "Sailing_at_the_2012_Summer_Olympics_\u2013_Men's_Laser_class_1.csv": {
+        "Race.1": "Incident Number",
+        "Race": " Victim Age"
+    },
+    "List_of_offenders_executed_in_the_United_States_in_2013.csv": {
+        "Number": "Incident Number",
+        "Gender": " Victim Gender",
+        "Race": " Victim Race"
+    },
+    "Candidates_in_the_Philippine_Senate_election,_2013.csv": {
+        "#": "Incident Number",
+        "Gender": " Victim Gender"
+    }
+}

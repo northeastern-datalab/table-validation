@@ -1,0 +1,16 @@
+{
+    "part.csv": {
+        "P_NAME": "P_NAME",
+        "CONTAINER": "CONTAINER",
+        "TYPE": "TYPE",
+        "BRAND": "BRAND",
+        "PARTKEY": "PARTKEY",
+        "MFGR": "MFGR",
+        "RETAILPRICE": "RETAILPRICE",
+        "SIZE": "SIZE"
+    },
+    "supplier.csv": {
+        "SUPPKEY": "PARTKEY",
+        "S_NAME": "S_NAME"
+    }
+}

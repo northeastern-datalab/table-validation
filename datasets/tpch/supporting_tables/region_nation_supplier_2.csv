@@ -1,0 +1,20 @@
+{
+    "supplier.csv": {
+        "NATIONKEY": "NATIONKEY",
+        "S_COMMENT": "S_COMMENT",
+        "S_NAME": "S_NAME",
+        "SUPPKEY": "SUPPKEY",
+        "S_ACCTBAL": "S_ACCTBAL",
+        "S_PHONE": "S_PHONE",
+        "S_ADDRESS": "S_ADDRESS"
+    },
+    "region.csv": {
+        "R_NAME": "R_NAME",
+        "R_COMMENT": "R_COMMENT",
+        "REGIONKEY": "REGIONKEY"
+    },
+    "nation.csv": {
+        "NATIONKEY": "NATIONKEY",
+        "REGIONKEY": "REGIONKEY"
+    }
+}

@@ -1,0 +1,899 @@
+{
+    "List_of_lakes_in_Minnesota.csv": {
+        "Water Clarity (ft)": " Precipitation (mm)",
+        "Littoral zone (acres)": " Solar Radiation (W/m\u00b2)"
+    },
+    "List_of_Somerset_CCC_Twenty20_players.csv": {
+        "Ca": " Temperature (\u00b0C)",
+        "Mat": " Wind Speed (m/s)"
+    },
+    "List_of_San_Jose_Sharks_players_1.csv": {
+        "G": " Temperature (\u00b0C)",
+        "P": " Wind Speed (m/s)"
+    },
+    "List_of_Hampshire_CCC_first-class_players_(1919\u201339).csv": {
+        "Ca": " Temperature (\u00b0C)",
+        "Mat": " Wind Speed (m/s)"
+    },
+    "List_of_Columbus_Blue_Jackets_players_1.csv": {
+        "Regular season": "Study Area ID",
+        "Regular season.1": " Temperature (\u00b0C)"
+    },
+    "List_of_Hampshire_CCC_first-class_players_(1981\u2013present).csv": {
+        "Mat": "Study Area ID",
+        "Ca": " Temperature (\u00b0C)"
+    },
+    "Y-DNA_haplogroups_in_indigenous_peoples_of_the_Americas.csv": {
+        "R1": " Precipitation (mm)"
+    },
+    "Namibia_national_cricket_team.csv": {
+        "Ct": " Temperature (\u00b0C)",
+        "Inn": " Wind Speed (m/s)",
+        "Runs": " Soil Moisture (%)"
+    },
+    "List_of_Leeward_Islands_first-class_cricketers.csv": {
+        "C": " Temperature (\u00b0C)",
+        "M": " Wind Speed (m/s)"
+    },
+    "2002_Los_Angeles_Sparks_season.csv": {
+        "W": " Temperature (\u00b0C)",
+        "L": " Wind Speed (m/s)"
+    },
+    "2007_World_Weightlifting_Championships_\u2013_Women's_48_kg_1.csv": {
+        "Snatch (kg)": " Relative Humidity (%)",
+        "Snatch (kg).3": " Precipitation (mm)"
+    },
+    "List_of_Florida_Panthers_players_1.csv": {
+        "GP": "Study Area ID",
+        "A": " Temperature (\u00b0C)",
+        "G": " Precipitation (mm)"
+    },
+    "The_Church_of_Jesus_Christ_of_Latter-day_Saints_membership_statistics_(United_States).csv": {
+        "Branches": " Temperature (\u00b0C)",
+        "Stakes": " Precipitation (mm)",
+        "Family History Centers": " Solar Radiation (W/m\u00b2)"
+    },
+    "List_of_Delhi_Daredevils_cricketers.csv": {
+        "General.5": "Study Area ID",
+        "Bowling": " Soil Moisture (%)"
+    },
+    "Giannis_Goumas.csv": {
+        "League": " Wind Speed (m/s)",
+        "Continental": " Precipitation (mm)"
+    },
+    "1989_480_km_of_Spa.csv": {
+        "Laps": " Relative Humidity (%)"
+    },
+    "List_of_Hamilton_Tiger-Cats_head_coaches_1.csv": {
+        "GC": " Temperature (\u00b0C)",
+        "W": " Precipitation (mm)"
+    },
+    "Brockville_Braves.csv": {
+        "Points": "Study Area ID",
+        "L": " Wind Speed (m/s)"
+    },
+    "Nobby_Stiles.csv": {
+        "League.1": " Temperature (\u00b0C)",
+        "League Cup": " Precipitation (mm)"
+    },
+    "ASCII.csv": {
+        "Dec": " Precipitation (mm)",
+        "Oct": " Solar Radiation (W/m\u00b2)"
+    },
+    "Hawkesbury_Hawks.csv": {
+        "Points": "Study Area ID",
+        "GP": " Relative Humidity (%)"
+    },
+    "List_of_Pakistan_Twenty20_International_cricketers.csv": {
+        "General.4": "Study Area ID",
+        "Fielding": " Temperature (\u00b0C)"
+    },
+    "List_of_college_baseball_coaches_with_1,000_wins_1.csv": {
+        "Ties": " Temperature (\u00b0C)",
+        "Wins": " Atmospheric Pressure (hPa)"
+    },
+    "List_of_Kashima_Antlers_records_and_statistics.csv": {
+        "Lose": " Temperature (\u00b0C)",
+        "Win": " Wind Speed (m/s)"
+    },
+    "2012_European_Weightlifting_Championships_\u2013_Women's_48_kg_1.csv": {
+        "Snatch (kg).2": " Relative Humidity (%)",
+        "Snatch (kg).3": " Precipitation (mm)"
+    },
+    "Quebec_Aces.csv": {
+        "Tied": " Precipitation (mm)",
+        "Won": " Solar Radiation (W/m\u00b2)"
+    },
+    "2008_Utah_Grand_Prix.csv": {
+        "Laps": " Relative Humidity (%)"
+    },
+    "List_of_VFL_debuts_in_1979.csv": {
+        "Games": "Study Area ID",
+        "Goals": " Temperature (\u00b0C)"
+    },
+    "List_of_FC_Seoul_records_and_statistics.csv": {
+        "GD": " Temperature (\u00b0C)"
+    },
+    "Lee_Kwan-Woo.csv": {
+        "League": " Wind Speed (m/s)",
+        "Total.1": " Precipitation (mm)"
+    },
+    "Fort_William_Canadians.csv": {
+        "P": "Study Area ID",
+        "W": " Temperature (\u00b0C)"
+    },
+    "List_of_40-plus_point_games_by_Kobe_Bryant_1.csv": {
+        "MP": "Study Area ID",
+        "Reb": " Temperature (\u00b0C)"
+    },
+    "Ma_Chul-Jun.csv": {
+        "League": " Wind Speed (m/s)",
+        "League Cup": " Precipitation (mm)"
+    },
+    "Simone_Perrotta.csv": {
+        "League.1": " Temperature (\u00b0C)",
+        "Total.1": " Precipitation (mm)"
+    },
+    "Human_genome.csv": {
+        "miRNA": " Relative Humidity (%)"
+    },
+    "Rilwan_Waheed.csv": {
+        "Total.2": " Wind Speed (m/s)",
+        "League.2": " Precipitation (mm)"
+    },
+    "1999\u20132000_Galatasaray_S.K._season.csv": {
+        "Total": "Study Area ID",
+        "Europe": " Temperature (\u00b0C)"
+    },
+    "1954_Australian_Grand_Prix.csv": {
+        "Laps": " Wind Speed (m/s)",
+        "No.": " Precipitation (mm)"
+    },
+    "Kevin_Kilbane.csv": {
+        "Total.1": " Precipitation (mm)",
+        "Total": " Solar Radiation (W/m\u00b2)"
+    },
+    "2002_United_States_Figure_Skating_Championships_1.csv": {
+        "SP": " Precipitation (mm)",
+        "FS": " Solar Radiation (W/m\u00b2)"
+    },
+    "2005_FIA_GT_Motorcity_GT_500.csv": {
+        "Laps": " Relative Humidity (%)"
+    },
+    "List_of_Nashville_Predators_draft_picks_1.csv": {
+        "Pick": "Study Area ID",
+        "Round": " Wind Speed (m/s)",
+        "G": " Precipitation (mm)"
+    },
+    "Larry_Brown_(basketball).csv": {
+        "W": " Relative Humidity (%)"
+    },
+    "Darren_Purse.csv": {
+        "Total": "Study Area ID",
+        "Total.1": " Temperature (\u00b0C)"
+    },
+    "List_of_Washington_Huskies_in_the_NFL_Draft_1.csv": {
+        "Pick": " Precipitation (mm)",
+        "Overall": " Solar Radiation (W/m\u00b2)"
+    },
+    "List_of_Red_Star_Belgrade_seasons.csv": {
+        "League.5": "Study Area ID",
+        "League.2": " Wind Speed (m/s)",
+        "League.7": " Soil Moisture (%)"
+    },
+    "Kennedy_Memorial_Winter_Games_1.csv": {
+        "SP": " Wind Speed (m/s)",
+        "FP": " Precipitation (mm)"
+    },
+    "Hulk_(footballer).csv": {
+        "League": " Wind Speed (m/s)",
+        "Total": " Precipitation (mm)"
+    },
+    "List_of_Fenerbah\u00e7e_S.K._seasons_1.csv": {
+        "League.6": "Study Area ID",
+        "League.3": " Temperature (\u00b0C)",
+        "Top goalscorer(s).1": " Precipitation (mm)"
+    },
+    "1894_Paris\u2013Rouen.csv": {
+        "Number": " Wind Speed (m/s)",
+        "Position at Mantes": " Precipitation (mm)"
+    },
+    "Maple_Ridge_Burrards.csv": {
+        "Losses": " Temperature (\u00b0C)",
+        "Win": " Wind Speed (m/s)"
+    },
+    "Film_speed.csv": {
+        "DIN (1961\u20132002) log.": " Precipitation (mm)",
+        "ASA (1960\u20131987) arith.": " Solar Radiation (W/m\u00b2)"
+    },
+    "1999\u20132000_Segunda_Divisi\u00f3n_B.csv": {
+        "GF": " Relative Humidity (%)",
+        "W": " Wind Speed (m/s)",
+        "\u2014": " Precipitation (mm)"
+    },
+    "List_of_Ireland_ODI_cricketers.csv": {
+        "Ca": " Temperature (\u00b0C)",
+        "Mat": " Wind Speed (m/s)"
+    },
+    "2007_WPS_Bathurst_12_Hour.csv": {
+        "No.": "Study Area ID",
+        "Class Pos.": " Precipitation (mm)"
+    },
+    "List_of_boxing_quintuple_champions_1.csv": {
+        "Number.1": " Wind Speed (m/s)",
+        "Number": " Precipitation (mm)"
+    },
+    "1991_Tooheys_1000_1.csv": {
+        "Shootout Pos": " Precipitation (mm)",
+        "Qual Pos": " Solar Radiation (W/m\u00b2)"
+    },
+    "Winnipeg_Monarchs_(MJHL).csv": {
+        "Points": "Study Area ID",
+        "W": " Temperature (\u00b0C)"
+    },
+    "1972_Australian_Sports_Car_Championship.csv": {
+        "Total": " Wind Speed (m/s)",
+        "Position": " Precipitation (mm)"
+    },
+    "2010_Players_Championship_Finals_1.csv": {
+        "LWAT": " Temperature (\u00b0C)",
+        "Legs Won": " Wind Speed (m/s)"
+    },
+    "NK_Rudar_Velenje.csv": {
+        "W": " Temperature (\u00b0C)",
+        "Pts": " Relative Humidity (%)"
+    },
+    "Sailing_at_the_1952_Summer_Olympics_\u2013_Star.csv": {
+        "Race IV": " Wind Speed (m/s)",
+        "Rank": " Precipitation (mm)"
+    },
+    "Honda_F.C..csv": {
+        "W": " Precipitation (mm)",
+        "D": " Solar Radiation (W/m\u00b2)"
+    },
+    "United_States_House_of_Representatives_elections,_1916.csv": {
+        "Total seats": " Wind Speed (m/s)",
+        "Republican.1": " Precipitation (mm)"
+    },
+    "2003_Bathurst_24_Hour.csv": {
+        "No": " Relative Humidity (%)"
+    },
+    "United_States_men's_national_junior_ice_hockey_team.csv": {
+        "Pts": " Precipitation (mm)",
+        "GA": " Solar Radiation (W/m\u00b2)"
+    },
+    "Asian_Games_sports.csv": {
+        "06": " Precipitation (mm)",
+        "86": " Solar Radiation (W/m\u00b2)"
+    },
+    "List_of_Wales_international_footballers_with_25_or_more_caps.csv": {
+        "Goals": " Temperature (\u00b0C)",
+        "Caps": " Relative Humidity (%)"
+    },
+    "2008_Valencia_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "Kristers_Ser\u0123is.csv": {
+        "Races": " Wind Speed (m/s)",
+        "Position": " Precipitation (mm)"
+    },
+    "List_of_Fulham_F.C._players_(fewer_than_25_appearances)_1.csv": {
+        "League apps": " Temperature (\u00b0C)",
+        "Int. goals": " Precipitation (mm)"
+    },
+    "2007_FIA_GT_Oschersleben_2_Hours.csv": {
+        "Laps": " Relative Humidity (%)"
+    },
+    "2010_Falsterbo_Horse_Show.csv": {
+        "Unnamed: 0": " Wind Speed (m/s)",
+        "Round B": " Precipitation (mm)"
+    },
+    "List_of_Tennis_Borussia_Berlin_seasons.csv": {
+        "League.7": "Study Area ID",
+        "League.6": " Relative Humidity (%)",
+        "League.5": " Precipitation (mm)"
+    },
+    "Ivica_Iliev_1.csv": {
+        "Domestic League.1": " Temperature (\u00b0C)",
+        "Total.1": " Precipitation (mm)"
+    },
+    "1998_AMP_Bathurst_1000_1.csv": {
+        "No": "Study Area ID",
+        "Qual Pos": " Precipitation (mm)"
+    },
+    "1974\u201375_Ashes_series.csv": {
+        "Test Series Combined Batting Averages.4": " Temperature (\u00b0C)",
+        "Test Series Combined Batting Averages.10": " Precipitation (mm)"
+    },
+    "Pan_American_Games_sports.csv": {
+        "95": " Precipitation (mm)",
+        "83": " Solar Radiation (W/m\u00b2)"
+    },
+    "1981_James_Hardie_1000_1.csv": {
+        "No": "Study Area ID",
+        "Qual Pos": " Precipitation (mm)"
+    },
+    "1987_Spa_24_Hour.csv": {
+        "No": " Relative Humidity (%)"
+    },
+    "Ray_Parlour.csv": {
+        "League.1": " Wind Speed (m/s)",
+        "Continental": " Precipitation (mm)"
+    },
+    "2011_World_Weightlifting_Championships_\u2013_Women's_58_kg_1.csv": {
+        "Snatch (kg).1": " Relative Humidity (%)",
+        "Snatch (kg).3": " Precipitation (mm)"
+    },
+    "2012\u201313_ISU_Speed_Skating_World_Cup_\u2013_Women's_1500_metres_1.csv": {
+        "Total": " Soil Moisture (%)"
+    },
+    "Sailing_at_the_1996_Summer_Olympics_\u2013_Laser.csv": {
+        "Race III": "Study Area ID",
+        "Race II.1": " Precipitation (mm)",
+        "Race I.1": " Solar Radiation (W/m\u00b2)"
+    },
+    "2010_Armor_All_Bathurst_12_Hour.csv": {
+        "No.": "Study Area ID",
+        "Class Pos": " Precipitation (mm)"
+    },
+    "Figure_skating_at_the_1908_Summer_Olympics_\u2013_Men's_singles.csv": {
+        "CF": " Wind Speed (m/s)",
+        "FS": " Precipitation (mm)"
+    },
+    "12th_National_Games_of_the_People's_Republic_of_China.csv": {
+        "Silver": " Precipitation (mm)",
+        "Gold": " Solar Radiation (W/m\u00b2)"
+    },
+    "1950\u201351_Ashes_series.csv": {
+        "Test Series Batting Averages.4": " Wind Speed (m/s)",
+        "Test Series Batting Averages.11": " Precipitation (mm)"
+    },
+    "2009_Sprint_Gas_V8_Supercars_Manufacturers_Challenge.csv": {
+        "Grid": "Study Area ID",
+        "Laps": " Precipitation (mm)"
+    },
+    "10th_National_Games_of_the_People's_Republic_of_China.csv": {
+        "Gold": " Precipitation (mm)",
+        "Silver": " Solar Radiation (W/m\u00b2)"
+    },
+    "Sailing_at_the_1936_Summer_Olympics_\u2013_O-Jolle.csv": {
+        "Total Points": " Relative Humidity (%)",
+        "Rank": " Precipitation (mm)"
+    },
+    "1951_Australian_Grand_Prix.csv": {
+        "Laps": " Wind Speed (m/s)",
+        "No.": " Precipitation (mm)"
+    },
+    "Louie_Alas.csv": {
+        "Elims./Clas. round": " Precipitation (mm)",
+        "Elims./Clas. round.1": " Solar Radiation (W/m\u00b2)"
+    },
+    "United_States_House_of_Representatives_elections,_1896.csv": {
+        "Total seats": " Wind Speed (m/s)",
+        "Republican.1": " Precipitation (mm)"
+    },
+    "Mladen_Krstaji\u0107.csv": {
+        "League.1": " Temperature (\u00b0C)",
+        "Continental": " Precipitation (mm)"
+    },
+    "1993_Australian_motorcycle_Grand_Prix.csv": {
+        "No.": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "Euro_gold_and_silver_commemorative_coins.csv": {
+        "By year.7": " Precipitation (mm)",
+        "By year": " Solar Radiation (W/m\u00b2)"
+    },
+    "1977_British_Grand_Prix.csv": {
+        "Grid": " Precipitation (mm)",
+        "No": " Solar Radiation (W/m\u00b2)"
+    },
+    "Clarence_Seedorf.csv": {
+        "League.1": " Wind Speed (m/s)",
+        "Total.1": " Precipitation (mm)"
+    },
+    "List_of_Clamp_works_1.csv": {
+        "North America.1": " Precipitation (mm)",
+        "Spain.1": " Solar Radiation (W/m\u00b2)"
+    },
+    "2003_Nebelhorn_Trophy.csv": {
+        "SP": " Temperature (\u00b0C)",
+        "FS": " Precipitation (mm)"
+    },
+    "Sailing_at_the_2000_Summer_Olympics_\u2013_Women's_470.csv": {
+        "1": " Wind Speed (m/s)",
+        "Position": " Precipitation (mm)"
+    },
+    "List_of_National_Basketball_Association_players_with_most_steals_in_a_game_1.csv": {
+        "Points": "Study Area ID",
+        "Assists": " Precipitation (mm)",
+        "Rebounds": " Solar Radiation (W/m\u00b2)"
+    },
+    "1978_Australian_Drivers'_Championship_1.csv": {
+        "Total": " Temperature (\u00b0C)",
+        "No.": " Precipitation (mm)"
+    },
+    "2012\u201313_ISU_Speed_Skating_World_Cup_\u2013_Women's_mass_start_1.csv": {
+        "Total": " Soil Moisture (%)"
+    },
+    "1912_French_Grand_Prix.csv": {
+        "No": "Study Area ID",
+        "Laps": " Precipitation (mm)"
+    },
+    "2001_VIP_Petfoods_Queensland_500_1.csv": {
+        "Qual Pos": "Study Area ID",
+        "No": " Relative Humidity (%)",
+        "Shootout Pos": " Precipitation (mm)"
+    },
+    "1944_Campionato_Alta_Italia_1.csv": {
+        "Pts": " Temperature (\u00b0C)",
+        "P": " Precipitation (mm)"
+    },
+    "1973_Australian_Drivers'_Championship_1.csv": {
+        "Total": " Temperature (\u00b0C)",
+        "Position": " Precipitation (mm)"
+    },
+    "Richard_Garcia_1.csv": {
+        "Cup": " Temperature (\u00b0C)",
+        "Total.2": " Precipitation (mm)"
+    },
+    "2011_Jumping_International_de_France.csv": {
+        "Unnamed: 0": " Wind Speed (m/s)",
+        "scoring points": " Precipitation (mm)"
+    },
+    "2012\u201313_A.C._Siena_season.csv": {
+        "Serie A": " Temperature (\u00b0C)",
+        "No.": " Precipitation (mm)"
+    },
+    "Sailing_at_the_1984_Summer_Olympics_\u2013_Flying_Dutchman.csv": {
+        "Race III": " Temperature (\u00b0C)",
+        "Rank": " Precipitation (mm)"
+    },
+    "2010_Silverstone_GP2_Series_round.csv": {
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "List_of_VfL_Bochum_seasons.csv": {
+        "League.5": "Study Area ID",
+        "League.3": " Precipitation (mm)"
+    },
+    "1999\u20132000_HNK_Hajduk_Split_season_1.csv": {
+        "Total": " Temperature (\u00b0C)",
+        "Rank": " Precipitation (mm)"
+    },
+    "Sailing_at_the_2004_Summer_Olympics_\u2013_Women's_470_class_1.csv": {
+        "Race.4": " Temperature (\u00b0C)",
+        "Rank": " Precipitation (mm)"
+    },
+    "List_of_best-charting_music_artists_in_the_United_States.csv": {
+        "U.S. Hot 100": "Study Area ID",
+        "U.S. Top 40 hits": " Precipitation (mm)"
+    },
+    "2006\u201307_Nottingham_Forest_F.C._season.csv": {
+        "Championship": " Temperature (\u00b0C)",
+        "Number": " Precipitation (mm)"
+    },
+    "2008\u201309_HNK_Hajduk_Split_season_1.csv": {
+        "Total": " Wind Speed (m/s)",
+        "Rank": " Precipitation (mm)"
+    },
+    "Sailing_at_the_2000_Summer_Olympics_\u2013_Mistral_One_Design_Men's.csv": {
+        "Race V": "Study Area ID",
+        "Race I.1": " Precipitation (mm)",
+        "Race IV.1": " Solar Radiation (W/m\u00b2)"
+    },
+    "2012_UCI_Track_Cycling_World_Championships_\u2013_Women's_points_race_1.csv": {
+        "Sprint Points": " Temperature (\u00b0C)",
+        "Rank": " Precipitation (mm)"
+    },
+    "2010_European_Athletics_Championships_1.csv": {
+        "Gold": " Temperature (\u00b0C)",
+        "Rank": " Precipitation (mm)"
+    },
+    "List_of_FC_Bayern_Munich_seasons_1.csv": {
+        "Pts": "Study Area ID",
+        "L": " Temperature (\u00b0C)"
+    },
+    "1993_FIM_motorcycle_Grand_Prix.csv": {
+        "No.": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "NWA_International_Tag_Team_Championship_1.csv": {
+        "# Of Reigns": " Wind Speed (m/s)",
+        "Rank": " Precipitation (mm)"
+    },
+    "List_of_National_Basketball_Association_players_with_most_blocks_in_a_game_1.csv": {
+        "Points": "Study Area ID",
+        "Assists": " Precipitation (mm)"
+    },
+    "2013_PBA_D-League_Foundation_Cup.csv": {
+        "Losses": " Temperature (\u00b0C)",
+        "Wins": " Wind Speed (m/s)"
+    },
+    "Takaaki_Tokushige.csv": {
+        "Total.1": " Precipitation (mm)",
+        "League.1": " Solar Radiation (W/m\u00b2)"
+    },
+    "1954\u201355_Ashes_series.csv": {
+        "Test Series Batting Averages.4": " Temperature (\u00b0C)",
+        "Test Series Batting Averages.11": " Precipitation (mm)"
+    },
+    "2006_Brands_Hatch_Superbike_World_Championship_round.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "1967_Gallaher_500_1.csv": {
+        "Qual Pos": "Study Area ID",
+        "No": " Relative Humidity (%)",
+        "Class Pos": " Precipitation (mm)"
+    },
+    "2001_South_African_motorcycle_Grand_Prix.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "1999_Poolrite_GTP_Bathurst_Showroom_Showdown.csv": {
+        "No.": "Study Area ID",
+        "Class Pos.": " Precipitation (mm)"
+    },
+    "2008\u201309_Luge_World_Cup.csv": {
+        "OBE": " Wind Speed (m/s)",
+        "Pos.": " Precipitation (mm)"
+    },
+    "2009_Monza_Superbike_World_Championship_round.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "1999_Marlboro_Grand_Prix_of_Miami.csv": {
+        "Grid": " Precipitation (mm)",
+        "No": " Solar Radiation (W/m\u00b2)"
+    },
+    "2002_VIP_Petfoods_Queensland_500_1.csv": {
+        "Qual Pos": "Study Area ID",
+        "Shootout Pos": " Precipitation (mm)",
+        "No": " Soil Moisture (%)"
+    },
+    "Figure_skating_at_the_2011_Winter_Universiade_\u2013_Ladies'_singles.csv": {
+        "FS": " Precipitation (mm)",
+        "SP": " Solar Radiation (W/m\u00b2)"
+    },
+    "Sailing_at_the_2000_Summer_Olympics_\u2013_Mistral_One_Design_Women's.csv": {
+        "Net": " Relative Humidity (%)",
+        "Rank": " Precipitation (mm)"
+    },
+    "2005_Losail_Superbike_World_Championship_round.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "1996_United_States_Figure_Skating_Championships.csv": {
+        "SP": " Temperature (\u00b0C)",
+        "FS": " Precipitation (mm)"
+    },
+    "1982_World_Figure_Skating_Championships_1.csv": {
+        "CD": " Wind Speed (m/s)",
+        "FD": " Precipitation (mm)"
+    },
+    "1965_Armstrong_500.csv": {
+        "No": "Study Area ID",
+        "Class Pos": " Precipitation (mm)"
+    },
+    "2009_Assen_Superbike_World_Championship_round.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2011\u201312_East_Bengal_F.C._season_1.csv": {
+        "Total": " Temperature (\u00b0C)",
+        "Number": " Precipitation (mm)"
+    },
+    "2009\u201310_HNK_Hajduk_Split_season_1.csv": {
+        "Total": " Wind Speed (m/s)",
+        "Rank": " Precipitation (mm)"
+    },
+    "2009_Phillip_Island_Superbike_World_Championship_round.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2000_Ozemail_Queensland_500_1.csv": {
+        "Shootout Pos": " Precipitation (mm)",
+        "No": " Soil Moisture (%)"
+    },
+    "2005_Ondrej_Nepela_Memorial.csv": {
+        "FS": " Precipitation (mm)",
+        "SP": " Solar Radiation (W/m\u00b2)"
+    },
+    "2009_Miller_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2007_Phillip_Island_Superbike_World_Championship_round.csv": {
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "2008_Losail_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2008_Assen_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2009_Phillip_Island_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2006_Phillip_Island_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2006_Valencia_Superbike_World_Championship_round.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2009_Valencia_Superbike_World_Championship_round.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2008_Monza_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2008_Vallelunga_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "List_of_National_Basketball_Association_players_with_most_assists_in_a_game_1.csv": {
+        "Pts": "Study Area ID",
+        "Reb": " Precipitation (mm)"
+    },
+    "2007_Phillip_Island_Superbike_World_Championship_round_1.csv": {
+        "Grid": "Study Area ID",
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2008_WPS_Bathurst_12_Hour.csv": {
+        "No.": "Study Area ID",
+        "Class Pos.": " Precipitation (mm)"
+    },
+    "Book_of_Commandments.csv": {
+        "1835 edition D&C Section (of 102)": " Relative Humidity (%)"
+    },
+    "2006_Eurospeedway_Lausitz_Superbike_World_Championship_round.csv": {
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "2009_Assen_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "1958_Belgian_Grand_Prix.csv": {
+        "No": " Wind Speed (m/s)",
+        "Grid": " Precipitation (mm)"
+    },
+    "2009_Losail_Superbike_World_Championship_round.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2003_Portuguese_motorcycle_Grand_Prix.csv": {
+        "No.": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "Figure_skating_at_the_1928_Winter_Olympics_\u2013_Men's_singles_1.csv": {
+        "CF": " Temperature (\u00b0C)",
+        "FS": " Precipitation (mm)"
+    },
+    "2006_Brno_Superbike_World_Championship_round.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "2009_Donington_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "Sailing_at_the_1948_Summer_Olympics_\u2013_Star.csv": {
+        "Race III": " Temperature (\u00b0C)",
+        "Rank": " Precipitation (mm)"
+    },
+    "1908_French_Grand_Prix.csv": {
+        "No": "Study Area ID",
+        "Laps": " Precipitation (mm)"
+    },
+    "2008_Finlandia_Trophy.csv": {
+        "FS": " Precipitation (mm)",
+        "SP": " Solar Radiation (W/m\u00b2)"
+    },
+    "2009_Losail_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "1999_Nebelhorn_Trophy.csv": {
+        "SP": " Precipitation (mm)",
+        "FS": " Solar Radiation (W/m\u00b2)"
+    },
+    "2005_FIA_WTCC_Race_of_UK.csv": {
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "2007_Finlandia_Trophy.csv": {
+        "SP": " Precipitation (mm)",
+        "FS": " Solar Radiation (W/m\u00b2)"
+    },
+    "2009_Monza_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2003_Coupe_Internationale_de_Nice.csv": {
+        "SP": " Wind Speed (m/s)",
+        "FS": " Precipitation (mm)"
+    },
+    "2009_N\u00fcrburgring_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2009_Valencia_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2006_Losail_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2007_Turkish_motorcycle_Grand_Prix.csv": {
+        "Grid": " Temperature (\u00b0C)",
+        "Points": " Precipitation (mm)"
+    },
+    "2006_Nebelhorn_Trophy.csv": {
+        "FS": " Precipitation (mm)",
+        "SP": " Solar Radiation (W/m\u00b2)"
+    },
+    "Sailing_at_the_1988_Summer_Olympics_\u2013_470_Female.csv": {
+        "Race III": " Wind Speed (m/s)",
+        "Rank": " Precipitation (mm)"
+    },
+    "2005_Dutch_TT.csv": {
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "1962_United_States_Grand_Prix.csv": {
+        "No": " Wind Speed (m/s)",
+        "Grid": " Precipitation (mm)"
+    },
+    "2009_Portim\u00e3o_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2009_French_motorcycle_Grand_Prix.csv": {
+        "Grid": " Temperature (\u00b0C)",
+        "Points": " Precipitation (mm)"
+    },
+    "2005_Karl_Sch\u00e4fer_Memorial_1.csv": {
+        "CD": " Temperature (\u00b0C)",
+        "FD": " Precipitation (mm)"
+    },
+    "1997_United_States_Figure_Skating_Championships.csv": {
+        "SP": " Temperature (\u00b0C)",
+        "FS": " Precipitation (mm)"
+    },
+    "1952_Monaco_Grand_Prix_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Grid": " Precipitation (mm)"
+    },
+    "2008_Misano_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2005_Formula_BMW_World_Final_1.csv": {
+        "No": " Soil Moisture (%)"
+    },
+    "2009_Kyalami_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2006_Misano_Superbike_World_Championship_round_1.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "1997_Karl_Sch\u00e4fer_Memorial_1.csv": {
+        "CD1": " Temperature (\u00b0C)",
+        "OD": " Precipitation (mm)"
+    },
+    "1990_European_Figure_Skating_Championships.csv": {
+        "OP": " Precipitation (mm)",
+        "CF": " Solar Radiation (W/m\u00b2)"
+    },
+    "2007_Losail_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "2008_Czech_Republic_motorcycle_Grand_Prix.csv": {
+        "Grid": " Temperature (\u00b0C)",
+        "Points": " Precipitation (mm)"
+    },
+    "2005\u201306_Serie_C1.csv": {
+        "L": " Temperature (\u00b0C)",
+        "Unnamed: 0": " Precipitation (mm)"
+    },
+    "2009_Brno_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "1998_Argentine_motorcycle_Grand_Prix.csv": {
+        "No.": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "2005_French_Figure_Skating_Championships.csv": {
+        "SP": " Temperature (\u00b0C)",
+        "FS": " Precipitation (mm)"
+    },
+    "2006_Eurospeedway_Lausitz_Superbike_World_Championship_round_1.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "2006_Brno_Superbike_World_Championship_round_1.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "1971_Golden_Helmet_(Poland)_1.csv": {
+        "RYB": " Temperature (\u00b0C)",
+        "Pos.": " Precipitation (mm)"
+    },
+    "1999_Argentine_motorcycle_Grand_Prix.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "1999_South_African_motorcycle_Grand_Prix.csv": {
+        "No": "Study Area ID",
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "2000_Czech_Republic_motorcycle_Grand_Prix.csv": {
+        "Grid": " Wind Speed (m/s)",
+        "Points": " Precipitation (mm)"
+    },
+    "1963_Dutch_Grand_Prix.csv": {
+        "No": " Wind Speed (m/s)",
+        "Grid": " Precipitation (mm)"
+    },
+    "2004_Betta_Electrical_500_1.csv": {
+        "Shootout Pos": " Precipitation (mm)",
+        "No": " Soil Moisture (%)"
+    },
+    "2006_Valencia_Superbike_World_Championship_round_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Points": " Precipitation (mm)"
+    },
+    "List_of_Top_25_albums_for_1971_in_Australia.csv": {
+        "Highest pos. reached": " Wind Speed (m/s)",
+        "#": " Precipitation (mm)"
+    },
+    "2008_Golden_Spin_of_Zagreb_1.csv": {
+        "CD": " Precipitation (mm)",
+        "FD": " Solar Radiation (W/m\u00b2)"
+    },
+    "Sailing_at_the_1936_Summer_Olympics_\u2013_6_Metre.csv": {
+        "Race II.1": " Temperature (\u00b0C)",
+        "Rank": " Precipitation (mm)"
+    },
+    "1999_Queensland_500_1.csv": {
+        "No": " Relative Humidity (%)",
+        "Shootout Pos": " Precipitation (mm)"
+    },
+    "2002_Skate_America.csv": {
+        "SP": " Precipitation (mm)",
+        "FS": " Solar Radiation (W/m\u00b2)"
+    },
+    "Sailing_at_the_2011_Pan_American_Games_\u2013_Snipe_class_1.csv": {
+        "Race.8": " Wind Speed (m/s)",
+        "Rank": " Precipitation (mm)"
+    }
+}
